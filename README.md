@@ -1,5 +1,13 @@
-# Hi there, I,m Andrei 👋
+# Hi there! I'm Andrei 👋
+<img align="right" width="450" height="300" src="assets/developer.gif">
 
+
+### About Me
+
+* 🌱 I’m currently learning React/Redux   
+* 💻 I'm currently working on [Films](https://github.com/Andrei-Kuzuro/Films)
+* 📖 Improving my knowledge of English 
+* 🏋️‍ I like to go to the gym
 
 
 
@@ -19,10 +27,13 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=VisualStudioCode&logoColor=1F9CF0)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=WebStorm)
 
-
+---
 
 ### Follow Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0B66C2)](www.linkedin.com/in/andreikuzuro)
 [![GMail](https://img.shields.io/badge/-GMail-000000?style=for-the-badge&logo=GMail)](mailto:andrei.kuzuro@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andrei.kuzuro/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-kuzuro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
