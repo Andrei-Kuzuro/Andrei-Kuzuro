@@ -18,6 +18,8 @@
 <br>
 <br>
 
+---
+
 ### Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML)
@@ -41,6 +43,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=0B66C2)](www.linkedin.com/in/andreikuzuro)
 [![GMail](https://img.shields.io/badge/-GMail-000000?style=for-the-badge&logo=GMail)](mailto:andrei.kuzuro@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andrei.kuzuro/)
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-kuzuro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
